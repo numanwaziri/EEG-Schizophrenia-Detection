@@ -1,0 +1,1 @@
+# EEG-Schizophrenia-Detection
