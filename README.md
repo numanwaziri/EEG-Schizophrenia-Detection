@@ -12,7 +12,7 @@ Code in this repository assumes that all data is locally downloaded and unzipped
 
 *Note: No raw data or output files are included in this repository due to size constraints.*
 
-**Project Result:**
+## **Project Result:**
 In the domain of traditional models, the Light Gradient Boosting Machine (LGBM) proved to be a robust classifier, surpassing others in this project with a ROC AUC of **95.96%** and an accuracy of **90%**.
 
 ## Project Report
